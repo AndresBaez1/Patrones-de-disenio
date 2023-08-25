@@ -1,0 +1,6 @@
+C:\Users\andre\Documents\SharpDevelop Projects\Practica3\Practica3\obj\Debug\Practica3.csprojResolveAssemblyReference.cache
+C:\Users\andre\Documents\SharpDevelop Projects\Practica3\Practica3\bin\Debug\Practica3.exe.config
+C:\Users\andre\Documents\SharpDevelop Projects\Practica3\Practica3\bin\Debug\Practica3.exe
+C:\Users\andre\Documents\SharpDevelop Projects\Practica3\Practica3\bin\Debug\Practica3.pdb
+C:\Users\andre\Documents\SharpDevelop Projects\Practica3\Practica3\obj\Debug\Practica3.exe
+C:\Users\andre\Documents\SharpDevelop Projects\Practica3\Practica3\obj\Debug\Practica3.pdb
